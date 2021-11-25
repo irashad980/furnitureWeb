@@ -43,7 +43,7 @@ ul li .nav-link {
 
 .footer-text .last ul li {
   list-style: none;
-  margin-right: 10px;
+  /* margin-right: 10px; */
 }
 .footer-text .last ul li a {
   color: #696969 !important;
